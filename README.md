@@ -1,4 +1,6 @@
-#মডিউল ১ এর এসাইনমেন্ট
+#Modules Assignment Two
+
+
 Declare two constant variables "a" and "b" with any integer values of your choice.
 Perform addition, subtraction, multiplication, division, and modulus directly on "a"
 and "b".
